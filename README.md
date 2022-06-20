@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<!-- HEADING WITH IMAGE -->
+<div align="center">
+  <a href="">
+    <img src="https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/markets/core_market_full/generator/dist/generator/assets/images/websiteQRCode_noFrame.png" alt="Logo" width="450" height="400">
+  </a>
+  <h1 align="center">QR Code Generator</h1>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- ABOUT THE PROJECT -->
 
-In the project directory, you can run:
+## <img src="https://openclipart.org/download/307315/1538154643.svg" width="32" height="32"> About The Project
 
-### `npm start`
+This is a web app that generates QRCode for a URL which is provided by user.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="32" height="32">  Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Generation of QR Code.
+* Downloading of generated QR Code.
 
-### `npm test`
+## <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* React.js
+* JavaScript
 
-### `npm run build`
+<!-- SCREENSHOTS -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## <img src="https://cdn-icons-png.flaticon.com/512/6823/6823853.png" width="32" height="32">  Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/73957024/174660324-2aa5d71b-697e-47bb-88bb-811887ee7063.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<!-- GETTING STARTED -->
+## <img src="https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png" width="32" height="32"> Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To get a local copy up and running follow these simple steps.
+### Prerequisites
+In order to get a copy of the project you will require you to have Node.js (v14+) and the NPM package manager installed. If you don't have it, you can download the latest version of Node.js from the [official website](https://nodejs.org/en/download/) which also installs the NPM package manager by default.
+### Installation
+Open the terminal in the folder in which you wish to clone the repository and enter the following command:
+``` 
+git clone https://github.com/alok27a/QRCode-Generator.git
+cd QRCode-Generator
+```
+Install all the NPM packages:
+```
+npm i 
+```
+In order to run the frontend:
+```
+npm run start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Following are the environment variables used for frontend:
+- `REACT_APP_BASE_URL` - The domain name (usually http://localhost:3000)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- CONTRIBUTING -->
+## <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/3/git-icon-1788c-1590702885345.png" width=32 height=32> Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Learn More
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourAmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some YourAmazingFeature'`)
+4. Push to the Branch (`git push origin feature/YourAmazingFeature`)
+5. Open a Pull Request
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- CONTACT -->
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/1024px-Google_Contacts_icon.svg.png" width=32 height=32> Contact
 
-### Code Splitting
+### Alok Mathur
+[`E-Mail`](mailto:alok.mathur0302@gmail.com)
+[`LinkedIn`](https://www.linkedin.com/in/alok-mathur-5aab4534/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
