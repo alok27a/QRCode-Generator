@@ -1,11 +1,10 @@
 <!-- HEADING WITH IMAGE -->
 <div align="center">
   <a href="">
-    <img src="https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/markets/core_market_full/generator/dist/generator/assets/images/websiteQRCode_noFrame.png" alt="Logo" width="450" height="400">
+    <img src="https://user-images.githubusercontent.com/73957024/174661430-40c8eda8-cd91-4d41-b5c9-3f658f3c78bb.png" alt="Logo" width="450" height="400">
   </a>
   <h1 align="center">QR Code Generator</h1>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 
